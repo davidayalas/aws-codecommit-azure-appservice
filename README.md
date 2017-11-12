@@ -22,7 +22,7 @@ This README explains how to integrate AWS Code Commit with Azure AppService to t
 
 1. [AWS] Create a Lambda Function [index.js](index.js)
 
-	Once the function is working, you can download the max execution time to 1s because de depoy is launched.
+	Once the function is working, you can download the max execution time to 1s because the depoy is launched.
 
 1. [AWS] Assign permissions to Code Commit to execute Lambda
 
